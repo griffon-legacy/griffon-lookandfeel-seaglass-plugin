@@ -63,7 +63,7 @@ LookAndFeel and Themes
 | ------------- | -------- |
 | Seaglass      | Seaglass |
 
-[1]: http://seaglasslaf.sourceforge.net/
+[1]: http://code.google.com/p/seaglass/
 [2]: /plugin/lookandfeel
 '''
 }
